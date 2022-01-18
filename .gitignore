@@ -1,2 +1,5 @@
 *.doc
 for resume.jpg
+.DS_Store
+Thumbs.db
+.idea
