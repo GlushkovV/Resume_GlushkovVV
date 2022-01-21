@@ -61,5 +61,5 @@
 
 ![](img/foto.jpeg)
 ![](img/gramora.jpeg)
-![](img/IMG_1726.jpg
+![](img/IMG_1726.jpg)
 ![](img/war_heroes.jpeg)
