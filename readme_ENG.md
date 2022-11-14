@@ -16,7 +16,7 @@
 - Qualification: Engineer (Junior-Swift).
 
 2005 - 2008 Samara, Russia
-**State Educational Institution of Higher Professional Education "Povolzhskiy State Academy of Telecommunications and Informatics".**
+**State Educational Institution of Higher Professional Education "Volga State Academy of Telecommunications and Informatics".**
 - Faculty: Telecommunication networks and switching systems.
 - Qualification: Engineer.
 
@@ -30,11 +30,11 @@
 06.2018 - Present, remote work
 **Huawei Technologies Co., Ltd.**
 - Position: Leading design engineer.
-- Responsibilities: Verification and analysis of technical solutions, preparation of a list of equipment for the installation of Huawei telecommunications equipment. Volume work Estimation for the making orders. Task list Coordination with the customer and subcontractors.
+- Responsibilities: Verification and analysis of technical solutions, preparation of a list of equipment for the installation of Huawei telecommunications equipment. Volume work Estimation for making orders. Task list Coordination with the customer and subcontractors.
 - Achievements:
 > - December 2021, the Month Star award was given for contribution to the development and support of the MicroWave project for the Beeline customer.
 > - Samara government region acknowledgment was given in 2020 for conscientious duties performance, high professionalism and contribution to the information development technologies and telecommunications in the Samara region.
-> - The Huawei "War Hero" award was provided by the Huawei in 2019 as the best employee of the Site Integration department for optimizing business processes and attracting additional revenue of over 10 million rubles from the customer.
+> - The award, signed by the Vice President of the Eurasia region Huawei company, was given in 2019 as the best employee of the Site Integration department for optimizing business processes and attracting additional revenue of over 10 million rubles (170 000$) for the first half of the year.
 
 05.2017 – 06.2018 Samara, Russia
 **PJSС VimpelCom (Beeline, VEON Holding).**
@@ -55,7 +55,7 @@
 06.2006 - 08.2016 Samara, Russia
 **PJSС MegaFon.**
 - Position: Senior Specialist in support and development of key corporate clients.
-- Responsibilities: Working experience with the B2G and B2C segment is available. Working with the B2B segment:
+- Responsibilities: Working experience with the B2C segment is available. Working with the B2B segment:
   - commercial proposals creating, presentations of high-tech telecommunications solutions, transactions execution; 
   - long-term projects support, meetings and negotiations; 
   - loyalty control, outflow and revenue from customers, control and claims solving; 
@@ -72,7 +72,7 @@
 > - Created a manual for the initial installation of femtocells and general settings of client network equipment. It is provided to all customers of the Volga branch of PJSC MegaFon when issuing femtocells.
 > - Implemented the transfer of the functionality of the VIP and corporate clients remote service group from Samara to Penza. Organized the work of a new group of more than 100 employees.
 > - Developed training material for new employees on working with the billing system.
-> - Developed training materials and methodological procedures for working with corporate and highly profitable clients for call-center employees.
+> - Developed training materials and methodologies for working with corporate and highly profitable clients for call-center employees.
 
 
 ## Additionally
