@@ -5,10 +5,15 @@
 - E-mail:                   glushkov.vv@me.com
 - Living:                   Tashkent, Uzbekistan
 - Date of birth:            08.04.1986
-- Specialty:                iOS-Developer
-- Projects are available:   [https://GitHub.com/GlushkovV](https://github.com/GlushkovV?tab=repositories)
+- GitHub:                   [https://GitHub.com/GlushkovV](https://github.com/GlushkovV?tab=repositories)
+- LinkedIn:                 [https://www.LinkedIn.com/in/Vitaly-Glushkov](https://www.LinkedIn.com/in/Vitaly-Glushkov)
 
 ## Education
+
+2023 – 2023 online
+**LLC "1T" Professional retraining program.**
+- Faculty: Big Data and Machine learning
+- Qualification: Data Scientist.
 
 2021 - 2022 online
 **LLC " Netology" Professional retraining program.**
@@ -27,7 +32,21 @@
 
 ## Work experience
 
-06.2018 - Present, remote work
+09.2023 – Present, remote internship
+**LLC "1T".**
+- Position: Data Scientist. Internship.
+- Responsibilities: Job site data parsing, data cleaning, project concept development, creation of machine learning and deep learning models (neural networks) for the implementation of the 1T platform Vacancy Aggregator project.
+
+01.2023 – Present, Tashkent, Uzbekistan
+**Huawei Technologies Co., Ltd.**
+- Position: Legalization Specialist.
+- Responsibilities: Legalization of base stations for Ucell. Preparation and verification of documents (R1R2) for a telecommunications company and government departments.
+- Achievements:
+> - Optimized the process of preparing documents for government agencies by introducing an updated documents formats which has reduced the time required to prepare documents. This reduced personnel costs and saved the project $250,000 in subcontractor work. At the moment, some of the updated document formats are used throughout the territory of the Republic of Uzbekistan (Sanitary Passport).
+> - Optimized the process of preparing legalization documents for Ucell. At the moment, Ucell company is used to prepare its own documents not related to Huawei. 
+> - In February 2023, the Month Star award was given for excellent work on the Ucell project.
+
+06.2018 - 12.2022 remote work
 **Huawei Technologies Co., Ltd.**
 - Position: Leading design engineer.
 - Responsibilities: Verification and analysis of technical solutions, preparation of a list of equipment for the installation of Huawei telecommunications equipment. Volume work Estimation for making orders. Task list Coordination with the customer and subcontractors.
@@ -82,9 +101,12 @@
 
 ---
 
+![](img/1T_2.jpg)
+![](img/1T_1.jpg)
 ![](img/certificate.jpg)
 ![](img/diploma1.jpg)
 ![](img/diploma2.jpg)
+![](img/MonthlyStar.jpg)
 ![](img/gramota.jpeg)
 ![](img/IMG_1726.jpg)
 ![](img/war_heroes.jpeg)
