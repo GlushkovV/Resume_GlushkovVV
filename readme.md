@@ -102,9 +102,12 @@
 
 ---
 
+![](img/1T_2.jpg)
+![](img/1T_1.jpg)
 ![](img/certificate.jpg)
 ![](img/diploma1.jpg)
 ![](img/diploma2.jpg)
+![](img/MonthlyStar.jpeg)
 ![](img/gramota.jpeg)
 ![](img/IMG_1726.jpg)
 ![](img/war_heroes.jpeg)
