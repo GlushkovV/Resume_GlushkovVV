@@ -107,7 +107,7 @@
 ![](img/certificate.jpg)
 ![](img/diploma1.jpg)
 ![](img/diploma2.jpg)
-![](img/MonthlyStar.jpeg)
+![](img/MonthlyStar.jpg)
 ![](img/gramota.jpeg)
 ![](img/IMG_1726.jpg)
 ![](img/war_heroes.jpeg)
