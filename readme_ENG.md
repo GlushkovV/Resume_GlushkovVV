@@ -101,9 +101,9 @@
 
 ---
 
-![](img/Diploma_DS_1)
-![](img/Diploma_DS_2)
-![](img/Diploma_DS_3)
+![](img/Diploma_DS_1.jpg)
+![](img/Diploma_DS_2.jpg)
+![](img/Diploma_DS_3.jpg)
 ![](img/certificate.jpg)
 ![](img/diploma1.jpg)
 ![](img/diploma2.jpg)
