@@ -13,12 +13,12 @@
 2023 – 2023 online
 **LLC "1T" Professional retraining program.**
 - Faculty: Big Data and Machine learning
-- Qualification: Data Scientist.
+- Qualification: Data Scientist (Python).
 
 2021 - 2022 online
 **LLC " Netology" Professional retraining program.**
 - Faculty: iOS-Developer.
-- Qualification: Engineer (Junior-Swift).
+- Qualification: Engineer (Swift).
 
 2005 - 2008 Samara, Russia
 **State Educational Institution of Higher Professional Education "Volga State Academy of Telecommunications and Informatics".**
@@ -101,8 +101,9 @@
 
 ---
 
-![](img/1T_2.jpg)
-![](img/1T_1.jpg)
+![](img/Diploma_DS_1)
+![](img/Diploma_DS_2)
+![](img/Diploma_DS_3)
 ![](img/certificate.jpg)
 ![](img/diploma1.jpg)
 ![](img/diploma2.jpg)
