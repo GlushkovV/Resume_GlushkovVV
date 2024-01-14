@@ -4,7 +4,7 @@
 - Telegram:                 @VitalyGlushkov
 - E-mail:                   glushkov.vv@me.com
 - Living:                   Tashkent, Uzbekistan
-- Date of birth:            08.04.1986
+- Languages:                Russian – Native, English – B1 Pre-Intermediate
 - GitHub:                   [https://GitHub.com/GlushkovV](https://github.com/GlushkovV?tab=repositories)
 - LinkedIn:                 [https://www.LinkedIn.com/in/Vitaly-Glushkov](https://www.LinkedIn.com/in/Vitaly-Glushkov)
 
@@ -32,7 +32,7 @@
 
 ## Work experience
 
-09.2023 – Present, remote internship
+06.2023 – 12.2023 remote internship
 **LLC "1T".**
 - Position: Data Scientist. Internship.
 - Responsibilities: Job site data parsing, data cleaning, project concept development, creation of machine learning and deep learning models (neural networks) for the implementation of the 1T platform Vacancy Aggregator project.
@@ -101,6 +101,8 @@
 
 ---
 
+![](img/reference-1T_Internship.jpg)
+![](img/certificate-1T_Internship.jpg)
 ![](img/Diploma_DS_1.jpg)
 ![](img/Diploma_DS_2.jpg)
 ![](img/Diploma_DS_3.jpg)
