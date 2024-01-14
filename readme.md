@@ -1,10 +1,10 @@
 # Виталий Глушков
 
-- Номер телефона:    +998900437510, +79276000601
+- Номер телефона:    +998900437510
 - Телеграм:          @VitalyGlushkov
 - E-mail:            glushkov.vv@me.com
 - Город проживания:  Ташкент, Узбекистан
-- Дата рождения:     08.04.1986
+- Знание языков:     Русский – родной, Английский – B1 Pre-Intermediate
 - GitHub:            [https://GitHub.com/GlushkovV](https://github.com/GlushkovV?tab=repositories)
 - LinkedIn:          [https://www.LinkedIn.com/in/Vitaly-Glushkov](https://www.LinkedIn.com/in/Vitaly-Glushkov)
 
@@ -32,7 +32,7 @@
 
 ## Опыт работы
 
-09.2023 – настоящее время, удаленная стажировка
+06.2023 – 12.2023 удаленная стажировка
 **ООО "1Т".**
 - Должность: Data Scientist. Стажировка.
 - Обязанности: Парсинг данных сайтов вакансий, очистка данных, разработка концепции реализации проекта, создание моделей машинного обучения и глубокого обучения (нейронных сетей) для реализации проекта агрегатора вакансий платформы 1T.
@@ -101,6 +101,8 @@
 
 ---
 
+![](img/reference-1T_Internship.jpg)
+![](img/certificate-1T_Internship.jpg)
 ![](img/Diploma_DS_1.jpg)
 ![](img/Diploma_DS_2.jpg)
 ![](img/Diploma_DS_3.jpg)
